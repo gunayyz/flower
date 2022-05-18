@@ -1,0 +1,5 @@
+data-thumb="//fiorello.qodeinteractive.com/wp-content/uploads/2018/05/h3-slider-background-100x50.jpg"
+data-thumb="//fiorello.qodeinteractive.com/wp-content/uploads/2018/05/h3-slider-background-2-100x50.jpg"
+data-thumb="//fiorello.qodeinteractive.com/wp-content/uploads/2018/05/h3-slider-background-100x50.jpg"
+data-thumb="//fiorello.qodeinteractive.com/wp-content/uploads/2018/05/h3-slider-background-2-100x50.jpg"
+data-thumb="//fiorello.qodeinteractive.com/wp-content/uploads/2018/05/h3-slider-background-100x50.jpg"
