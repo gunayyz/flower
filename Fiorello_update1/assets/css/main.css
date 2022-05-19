@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Montserrat:wght@500&family=Playfair+Display&display=swap");
+.navbar {
+  font-weight: 500;
+  font-size: 12px;
+}
+
+.navbar .nav_elements {
+  font-weight: 500;
+  color: #1b1b1b;
+}
+
+ul li {
+  list-style-type: none;
+  display: inline;
+  margin: 20px;
+  color: #1b1b1b;
+  font-family: "Montserrat", sans-seriff;
+  font-size: 12px;
+}
+
+li a {
+  text-decoration: none;
+}
+
+ul li:hover {
+  text-decoration: underline;
+  color: #ac4343;
+}
