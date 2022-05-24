@@ -1,0 +1,40 @@
+.navbar {
+    font-weight: $secondary-weight;
+    font-size:$primary-size ;
+    padding: 50px;
+}
+.navbar .nav_elements{
+    font-weight: $secondary-weight;
+    color:$primary-color;
+}
+ul li{
+    list-style-type: none;
+    display: inline;
+    margin: 20px;
+    color: $primary-color;
+    font-family: $primary-font;
+    font-size: $primary-size;
+}
+.a{
+    display: flex;
+    display: inline;
+    font-size: $primary-size;
+    color:$primary-color;
+    font-family: $primary-font;
+    text-decoration: none;
+}
+.nav_elements a:hover{
+    color:$primary-color;
+    text-decoration: underline;
+}
+.logo{
+    display: flex;
+    display: inline;
+}
+.nav_cart a{
+    text-decoration: none;
+}
+.nav_cart{
+    display: flex;
+    display: inline;
+}
